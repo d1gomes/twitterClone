@@ -1,4 +1,4 @@
-# Create T3 App
+# T3 tech stack
 This is using [T3 Tech Stack](https://create.t3.gg/)
 
 ## Tech Stack
@@ -12,4 +12,4 @@ This is using [T3 Tech Stack](https://create.t3.gg/)
 ## Other resources?
 Deployment [Vercel](https://vercel.com)
 Logging [Axiom](https://app.axiom.co)
-Data Storage [PLanetScale](https://planetscale.com/)
+Data Storage [PlanetScale](https://planetscale.com/)
